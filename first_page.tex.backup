@@ -1,0 +1,50 @@
+\begin{center}
+\pagestyle{empty}
+\pagenumbering{roman}
+
+
+\begin{center}
+
+
+\includegraphics[scale=1]{newlogo} 	 
+\vspace{0.3 in}
+
+{\setlength{\baselineskip}{1.2 \baselineskip}
+
+\normalsize  A  PROJECT REPORT \\
+\normalsize ON
+
+\fontsize{18}{25} \textbf{Automatic Text Categorization fo Word Problems}
+\addcontentsline{toc}{section}{Title Page}\\
+
+
+	
+\fontsize{16}{21}SUBMITTED BY\\
+{\bfseries \fontsize{14}{12} \selectfont BY \\ 
+\vspace*{1\baselineskip}} 
+Suraj Kumar,	B120084330  \\
+Pranav Kanade,	B120084257   \\
+Gaurav Shukla,	B120084237  \\
+Sanket Deshmukh,	B120084228\\
+\vspace*{2\baselineskip}
+
+
+\fontsize{16}{21}Under the guidance of\\
+\fontsize{12}{18}\textbf{Prof. Guide Name\\}
+
+
+\fontsize{16}{21} In partial fulfillment of the requirements for\\ 
+\fontsize{16}{21}Bachelors Degree in Computer Engineering of\\
+\fontsize{12}{18}\textbf{SAVITRIBAI PHULE PUNE UNIVERSITY}\\
+\fontsize{12}{18}\textbf{[2016-2017]}
+
+
+\vspace{0.5in}
+\fontsize{16}{21}Department of Computer Engineering\\
+\fontsize{16}{21}D. Y. PATIL COLLEGE OF ENGINEERING\\
+\fontsize{16}{21}Akurdi, PUNE-411044.\\
+}
+\end{center}
+
+\end{center}
+
